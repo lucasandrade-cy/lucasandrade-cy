@@ -118,5 +118,15 @@ Registros de aprendizado e atividades da formação Hackers do Bem.
 </tr>
 </table>
 
+---
+
+<div align="center">
+
+### `root@lucas:~$ ./contribution_snake.sh`
+
+<img src="https://raw.githubusercontent.com/lucasandrade-cy/lucasandrade-cy/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
+
+</div>
+
 
 </div>
