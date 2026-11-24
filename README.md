@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=500&lines=Initializing+security+system...;Access+granted.;Welcome+to+Lucas's+cyber+lab." alt="Terminal animation">
 </div>
 
-<h1>lucasandrade-cy</h1>
+<h1>Lucas Gabriel Andrade</h1>
 
 <p><code>CYBERSECURITY STUDENT</code></p>
 
@@ -125,6 +125,16 @@ Registros de aprendizado e atividades da formação Hackers do Bem.
 ### `root@lucas:~$ ./contribution_snake.sh`
 
 <img src="https://raw.githubusercontent.com/lucasandrade-cy/lucasandrade-cy/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
+
+</div>
+
+<div align="center">
+
+### `root@lucas:~$ github_stats`
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lucasandrade-cy&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasandrade-cy&layout=compact&theme=chartreuse-dark&hide_border=true">
 
 </div>
 
